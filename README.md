@@ -87,11 +87,4 @@ Deploy as a web application
 Author
 Karan Singh
 B.Tech Student
-Machine Learning Enthusiast
 
-If you want, I can also give you:
-• ultra-short README
-• resume-optimized project description
-• interview explanation (HR + technical)
-
-Just say the word 👍
